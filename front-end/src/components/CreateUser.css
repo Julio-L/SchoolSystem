@@ -1,0 +1,60 @@
+#role, #standing{
+    background-color: #82caff;
+}
+option { 
+    /* Whatever color  you want */
+    background-color: #82caff;
+}
+
+#reg-title-basic{
+    margin-left: 10px;
+    margin-bottom: 50px;
+}
+
+#first-form-but{
+    padding: 2px 15px;
+    background-color: rgba(0, 136, 169, 1);
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+    width: 150px;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#first-form-but:hover{
+    background-color: rgba(0, 136, 169, 0.8);
+}
+
+.user-info-cont{
+    margin-top: 20px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+
+.user-row{
+    margin-bottom: 20px;
+}
+
+.user-table{
+    border-spacing: 10px;
+}
+
+.first-info-cont{
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    min-width: 650px;;
+}
+
+.create-user-outer-cont{
+    min-width: 650px;
+}
+

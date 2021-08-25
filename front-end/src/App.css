@@ -1,0 +1,22 @@
+body{
+  background-color: black;
+  color: white;
+}
+
+*{
+  box-sizing: border-box;
+  margin:0;
+  padding:0;
+  background-color: #24252A;
+}
+
+
+
+td, h1, li, button{
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 500;
+  font-size: 24px;
+  color: #edf0f1; 
+  text-decoration: none;
+}
+

@@ -1,0 +1,22 @@
+#status-icon{
+    height:15px;
+    width: 15px;
+}
+
+.status-cont{
+    display: flex;
+    align-items:center
+}
+
+.schedule-class-cont{
+    border: 2px solid grey;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    /* background-color: #DDDDDD; */
+}
+
+.time-cont{
+    display:flex;
+    justify-content: space-between;
+}

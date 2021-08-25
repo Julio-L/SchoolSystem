@@ -1,0 +1,31 @@
+#update-icon{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+}
+
+.update-cont{
+    min-width: 250px;
+    font-size: 8px;
+    border: 4px solid beige;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: white;
+    margin-right: 10px;
+}
+
+#more-info-but, #dismiss-but{
+    display:block;
+    background-color:beige;
+    color: black;
+    margin:auto;
+    margin-top: 10px;;
+    padding: 5px;;
+}
+
+.update-text{
+    background-color: white;
+    color: black;
+    font-size: 16px;
+}
